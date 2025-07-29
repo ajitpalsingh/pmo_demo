@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 import openai
+import raid_log_analyzer
+
 
 # --- Title ---
 st.set_page_config(page_title="Project Health AI Dashboard", layout="wide")
